@@ -174,6 +174,50 @@ The system then combines the environmental readings with the image-analysis resu
 
 `Python` · `OpenCV` · `scikit-learn` · `Tkinter` · `Pillow`
 
+---
+
+### ♡ system interface
+
+<p align="center">
+  <img src="./assets/GUI.jpg" width="800">
+</p>
+
+<p align="center">
+  <i>୨୧ real-time monitoring & leaf health analysis interface ୨୧</i>
+</p>
+
+The system provides a touchscreen interface for viewing **live sensor readings, leaf-health predictions, image analysis results, and recommendations**.
+
+---
+
+### ♡ image segmentation
+
+<p align="center">
+  <img src="./assets/segmentation.jpg" width="800">
+</p>
+
+<p align="center">
+  <i>♡ leaf segmentation & image-processing stage ♡</i>
+</p>
+
+The captured leaf image is processed using **HSV color-based segmentation**, followed by morphological processing and connected-component analysis before feature extraction.
+
+---
+
+### ♡ visual findings
+
+<p align="center">
+  <img src="./assets/findings.jpg" width="800">
+</p>
+
+<p align="center">
+  <i>୨୧ visual findings generated during leaf analysis ୨୧</i>
+</p>
+
+The analysis interface provides visual observations of characteristics such as **yellowing, brown or necrotic spotting, spot patterns, and edge sharpness** to accompany the model's leaf-health classification.
+
+---
+
 ### ♡ image analysis pipeline
 
 ```text
