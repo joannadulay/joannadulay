@@ -131,7 +131,7 @@
 **Aquaponic Monitoring System with Gradient Boosting Machine Image Analysis for *Ipomoea aquatica***
 
 <p align="center">
-  <img src="./assets/aquaponic-system.jpg" width="650">
+  <img src="./assets/experimental_setup.jpg" width="650">
 </p>
 
 <p align="center">
@@ -141,7 +141,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/aquaponic-hardware.png" width="800">
+  <img src="./assets/hardware_setup.png" width="800">
 </p>
 
 <p align="center">
