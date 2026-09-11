@@ -141,7 +141,7 @@
 <br>
 
 <p align="center">
-  <img src="./assets/hardware_setup.png" width="800">
+  <img src="./assets/hardware_setup.png" width="650">
 </p>
 
 <p align="center">
