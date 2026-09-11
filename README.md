@@ -77,11 +77,11 @@
   </a>
 
   <a href="https://www.linkedin.com/in/mary-joanna-dulay-2oo3">
-    <img src="https://img.shields.io/badge/LinkedIn-A855F7?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="https://www.instagram.com/joanna.dulay/?hl=en">
-    <img src="https://img.shields.io/badge/Instagram-C084FC?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/Instagram-8B5CF6?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
   </p>
@@ -102,31 +102,31 @@
   ୨୧ ─────────── ⋆｡°✩ ─────────── ୨୧
 </p>
 
-## 💜 my little tech corner
+## ♡ my little tech corner
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/C++-A855F7?style=for-the-badge&logo=cplusplus&logoColor=white">
-<img src="https://img.shields.io/badge/Arduino-7C3AED?style=for-the-badge&logo=arduino&logoColor=white">
-<img src="https://img.shields.io/badge/Raspberry%20Pi-9333EA?style=for-the-badge&logo=raspberrypi&logoColor=white">
+<img src="https://img.shields.io/badge/C++-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white">
+<img src="https://img.shields.io/badge/Arduino-8B5CF6?style=for-the-badge&logo=arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Raspberry%20Pi-8B5CF6?style=for-the-badge&logo=raspberrypi&logoColor=white">
 
 </p>
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/OpenCV-8B5CF6?style=for-the-badge&logo=opencv&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-A855F7?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/Git-9333EA?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/scikit--learn-8B5CF6?style=for-the-badge&logo=scikitlearn&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-8B5CF6?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white">
 
 </p>
 
 ---
 
-## 🪻 featured project
+## ୨୧ featured project
 
-### ୨୧ Aquaponic Monitoring System
+### ♡ Aquaponic Monitoring System
 
 **Aquaponic Monitoring System with Gradient Boosting Machine Image Analysis for *Ipomoea aquatica***
 
